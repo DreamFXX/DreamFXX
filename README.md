@@ -28,10 +28,9 @@ My **GitHub** where you can find my projects and everything related to my progra
 
 My **E-Mail** (Write me an email with anything formal and serious - related)
 
-[Jobs, Interviews, Payments etc.] 📝 <filipek.husak@gmail.com>
+📝 -> <filipek.husak@gmail.com>
 
-**Linked-In** - [Linked-In **Link**]
 
-*Looking forward for any type of entertainment, work, interesting things about news, particularly anything. **Dont hesitate to hit me up with a message!***
+*Looking forward for any type of entertainment, work, interesting things about news, particularly anything. Dont hesitate to hit me up with a message!*
 
-*DreamFXX*
+DreamFXX
