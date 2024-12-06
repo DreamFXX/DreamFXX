@@ -1,0 +1,6 @@
+@ASPWebAPI_FlightsData_HostAddress = http://localhost:5019
+
+GET {{ASPWebAPI_FlightsData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
