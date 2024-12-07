@@ -1,0 +1,6 @@
+@TCSA.WebAPI.FlightsData2_HostAddress = http://localhost:5053
+
+GET {{TCSA.WebAPI.FlightsData2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
