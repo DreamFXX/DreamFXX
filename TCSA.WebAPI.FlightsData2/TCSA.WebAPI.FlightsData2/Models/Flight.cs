@@ -1,5 +1,5 @@
 ﻿namespace TCSA.WebAPI.FlightsData2.Models;
-public class Flights
+public class Flight
 { 
         public int Id { get; set; } 
         public int FlightNumber { get; set; }

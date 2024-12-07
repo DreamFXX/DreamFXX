@@ -8,7 +8,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
-builder.Services.AddDbContext<FlightsDbContext2>(opt => opt.UseSqlite());
+builder.Services.AddDbContext<FlightsDbContext2>
+    (opt => opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 
