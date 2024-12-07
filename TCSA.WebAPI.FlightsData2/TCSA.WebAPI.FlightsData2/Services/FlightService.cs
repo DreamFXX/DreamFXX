@@ -1,5 +1,5 @@
-﻿using TCSA.WebAPI.FlightsData2.Models;
-using TCSA.WebAPI.FlightsData2.Data;
+﻿using TCSA.WebAPI.FlightsData2.Data;
+using TCSA.WebAPI.FlightsData2.Models;
 
 namespace TCSA.WebAPI.FlightsData2.Services;
 
@@ -14,10 +14,58 @@ public interface IFlightService
 
 public class FlightService : IFlightService
 {
-    private readonly FlightsDbContext2 _dbContext;
+    private readonly FlightsDbContext2 Context;
 
-    public FlightService(FlightsDbContext2 dbContext)
+    public FlightService(FlightsDbContext2 context)
     {
-        _dbContext = dbContext;
+        Context = context;
+    }
+
+    public Flight CreateFlight(Flight flight)
+    {
+        var savedFlight = Context.Flights.Add(flight);
+        Context.SaveChanges();
+        return savedFlight.Entity;
+    }
+
+    public string? DeleteFlights(int id)
+    {
+        Flight savedFlight = Context.Flights.Find(id);
+
+        if (savedFlight == null)
+        {
+            return null;
+        }
+
+        Context.Flights.Remove(savedFlight);
+
+        return $"Flight with id: {id} was deleted.";
+    }
+
+    public Flight? GetFlightById(int id)
+    {
+        Flight savedFlight = Context.Flights.Find(id);
+        return savedFlight == null ? null : savedFlight;
+    }
+
+    public List<Flight> GetAllFlights()
+    {
+        return Context.Flights.ToList();
+    }
+
+    public Flight UpdateFlight(int id, Flight flight)
+    {
+        Flight savedFlight = Context.Flights.Find(flight.Id);
+
+        if (savedFlight == null)
+        {
+            return null;
+        }
+
+        Context.Entry(savedFlight).CurrentValues.SetValues(flight);
+        Context.SaveChanges();
+
+        return savedFlight;
     }
 }
+
