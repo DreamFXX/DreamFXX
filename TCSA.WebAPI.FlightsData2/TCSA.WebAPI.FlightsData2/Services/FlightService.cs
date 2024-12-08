@@ -8,7 +8,7 @@ public interface IFlightService
     public List<Flight> GetAllFlights();
     public Flight? GetFlightById(int id);
     public Flight CreateFlight(Flight flight);
-    public Flight UpdateFlight(int id, Flight updatedFlight);
+    public Flight UpdateFlight(Flight updatedFlight);
     public string? DeleteFlights(int id);
 }
 
@@ -28,6 +28,19 @@ public class FlightService : IFlightService
         return savedFlight.Entity;
     }
 
+    public Flight UpdateFlight(Flight flight)
+    {
+        var savedFlight = Context.Flights.Find(flight.Id);
+        if (savedFlight == null)
+        {
+            return null;
+        }
+        Context.Entry(savedFlight).CurrentValues.SetValues(flight);
+        Context.SaveChanges();
+
+        return savedFlight;
+    }
+
     public string? DeleteFlights(int id)
     {
         Flight savedFlight = Context.Flights.Find(id);
@@ -39,13 +52,7 @@ public class FlightService : IFlightService
 
         Context.Flights.Remove(savedFlight);
 
-        return $"Flight with id: {id} was deleted.";
-    }
-
-    public Flight? GetFlightById(int id)
-    {
-        Flight savedFlight = Context.Flights.Find(id);
-        return savedFlight == null ? null : savedFlight;
+        return $"Successfully deleted flight with id: {id}";
     }
 
     public List<Flight> GetAllFlights()
@@ -53,19 +60,11 @@ public class FlightService : IFlightService
         return Context.Flights.ToList();
     }
 
-    public Flight UpdateFlight(int id, Flight flight)
+    public Flight? GetFlightById(int id)
     {
-        Flight savedFlight = Context.Flights.Find(flight.Id);
+        Flight savedFlight = Context.Flights.Find(id);
 
-        if (savedFlight == null)
-        {
-            return null;
-        }
-
-        Context.Entry(savedFlight).CurrentValues.SetValues(flight);
-        Context.SaveChanges();
-
-        return savedFlight;
+        return savedFlight == null ? null : savedFlight;
     }
 }
 
