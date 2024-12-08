@@ -8,7 +8,7 @@ public interface IFlightService
     public List<Flight> GetAllFlights();
     public Flight? GetFlightById(int id);
     public Flight CreateFlight(Flight flight);
-    public Flight UpdateFlight(Flight updatedFlight);
+    public Flight UpdateFlight(int id, Flight updatedFlight);
     public string? DeleteFlights(int id);
 }
 
@@ -28,7 +28,7 @@ public class FlightService : IFlightService
         return savedFlight.Entity;
     }
 
-    public Flight UpdateFlight(Flight flight)
+    public Flight UpdateFlight(int id, Flight flight)
     {
         var savedFlight = Context.Flights.Find(flight.Id);
         if (savedFlight == null)
