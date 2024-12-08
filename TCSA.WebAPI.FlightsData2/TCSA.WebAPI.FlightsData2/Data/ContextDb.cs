@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using TCSA.WebAPI.FlightsData2.Models;
+using TCSA.WebAPI.FlightsData.Models;
 
-namespace TCSA.WebAPI.FlightsData2.Data;
+namespace TCSA.WebAPI.FlightsData.Data;
 public class FlightsDbContext2 : DbContext
 {
     public FlightsDbContext2(DbContextOptions options) : base(options)

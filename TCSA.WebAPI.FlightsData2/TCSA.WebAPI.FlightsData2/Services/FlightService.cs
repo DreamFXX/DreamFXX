@@ -1,7 +1,7 @@
-﻿using TCSA.WebAPI.FlightsData2.Data;
-using TCSA.WebAPI.FlightsData2.Models;
+﻿using TCSA.WebAPI.FlightsData.Data;
+using TCSA.WebAPI.FlightsData.Models;
 
-namespace TCSA.WebAPI.FlightsData2.Services;
+namespace TCSA.WebAPI.FlightsData.Services;
 
 public interface IFlightService
 {

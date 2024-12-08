@@ -1,6 +1,6 @@
-using TCSA.WebAPI.FlightsData2.Data;
 using Microsoft.EntityFrameworkCore;
-using TCSA.WebAPI.FlightsData2.Services;
+using TCSA.WebAPI.FlightsData.Data;
+using TCSA.WebAPI.FlightsData.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

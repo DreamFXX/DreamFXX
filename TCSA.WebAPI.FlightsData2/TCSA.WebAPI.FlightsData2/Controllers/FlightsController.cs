@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TCSA.WebAPI.FlightsData2.Models;
-using TCSA.WebAPI.FlightsData2.Services;
+using TCSA.WebAPI.FlightsData.Models;
+using TCSA.WebAPI.FlightsData.Services;
 
-namespace TCSA.WebAPI.FlightsData2.Controllers;
+namespace TCSA.WebAPI.FlightsData.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
