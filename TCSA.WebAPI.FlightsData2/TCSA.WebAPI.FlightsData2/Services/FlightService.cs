@@ -30,7 +30,7 @@ public class FlightService : IFlightService
 
     public Flight UpdateFlight(int id, Flight flight)
     {
-        var savedFlight = Context.Flights.Find(flight.Id);
+        var savedFlight = Context.Flights.Find(id);
         if (savedFlight == null)
         {
             return null;

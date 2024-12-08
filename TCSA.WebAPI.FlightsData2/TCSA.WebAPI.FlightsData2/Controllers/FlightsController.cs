@@ -40,9 +40,9 @@ public class FlightsController : ControllerBase
     }
 
     [HttpPut("{id}")]
-    public ActionResult<Flight> UpdateFlight(Flight flight)
+    public ActionResult<Flight> UpdateFlight(int id, Flight flight)
     {
-        var result = _flightService.GetFlightById(flight.Id);
+        var result = _flightService.GetFlightById(id);
 
         if (result == null)
         {
