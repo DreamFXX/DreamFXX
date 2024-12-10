@@ -44,6 +44,7 @@ internal class Program
 
             var userChoice = Console.ReadKey();
             Console.WriteLine("\n");
+
             switch (userChoice.KeyChar)
             {
                 case '0':
@@ -55,12 +56,36 @@ internal class Program
                     break;
                 case '2':
                     InsertNewRecord();
-                    case '3':
+                    break;
+                case '3':
+                    UpdateRecord();
+                    break;
+                case '4':
+                    DeleteRecord();
+                    break;
+                default:
+                    Console.WriteLine("\nInvalid input! Try Again.");
+                    break;
             }
-            
+            Console.WriteLine("\nPress any key to continue.");
+            Console.ReadKey();
+            Console.Clear();
         }
 
     }
 
+    public static int RunNonQueryOnDatabase(string commandText)
+    {
+        using var connection = new SQLiteConnection(connectionString);
+        connection.Open();
+
+        var command = connection.CreateCommand();
+        command.CommandText = commandText;
+        int result = command.ExecuteNonQuery();
+
+        connection.Close();
+
+        return result;
+    }
 }
 
