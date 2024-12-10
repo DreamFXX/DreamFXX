@@ -1,5 +1,4 @@
-﻿using System.Data.SQLite;
-using HabitTracker_Advanced.HabitTracker_Library;
+﻿using HabitTracker_Advanced.HabitTracker_Library;
 
 namespace HabitTracker_Advanced;
 
@@ -14,12 +13,11 @@ internal class HabitTrackerMain
         while (!exit)
         {
             Console.WriteLine("\n-- WELCOME IN HABIT TRACKER ADVANCED --\n");
-            //dbManager.CreateDatabaseIfNotExists();
+            dbManager.CreateDbIfNotExists();
             ShowMenu();
-            //string menuChoice;
-
+            string menuChoice = Console.ReadLine();
+            //SwitchMenuChoice(menuChoice);
         }
-
     }
 
     private static void ShowMenu()
@@ -37,7 +35,6 @@ internal class HabitTrackerMain
                           "===============================\n" +
                           "Your choice: \n");
     }
-
-
 }
+
 

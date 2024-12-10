@@ -6,10 +6,6 @@ namespace HabitTracker_Advanced.HabitTracker_Library;
 
 public class DatabaseManager
 {
-    private static readonly string connectionString = LoadCnnString();
-    public static List<string> currentHabits = [];
-
-
     private static string LoadCnnString(string id = "Default")
     {
         return ConfigurationManager.ConnectionStrings[id].ConnectionString;
@@ -27,6 +23,5 @@ public class DatabaseManager
 
         //return connectionString;
     }
-
 }
 
