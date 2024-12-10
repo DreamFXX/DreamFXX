@@ -12,9 +12,9 @@ internal class Program
     static void Main(string[] args)
     {
         int approvedConn = RunNonQueryOnDatabase(@$"CREATE TABLE IF NOT EXISTS {tableName} (
-                                                    Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                                                    DateAndTime TEXT,
-                                                    Quantity INTEGER)");
+                                                           Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                                                           DateAndTime TEXT,
+                                                           Quantity INTEGER)");
 
         if (approvedConn != 0)
         {
