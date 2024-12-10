@@ -2,6 +2,10 @@
 
 ## In this repository are all my plans, Todo tasks and my contact information.
 
+### **Currently there are stored two projects**
+- My personal Substance Tracker App project
+- My final practice project of CRUD Apps - Habit tracker again, without any helpers.
+
 ### Also! My first personal and own projects Im currently working on // Created.
 
 ### Bio
