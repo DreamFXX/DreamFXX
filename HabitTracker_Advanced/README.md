@@ -1,3 +1,4 @@
-# Habit Tracker Advances - Final practice of CRUD operations
+# Habit Tracker Advanced
 
-- In progress
+- Final practice of CRUD operations.
+
