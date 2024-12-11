@@ -1,12 +1,9 @@
 # DreamFXX personal repository.
 
-## In this repository are all my plans, Todo tasks and my contact information.
+## In this repository are all my plans, Todo tasks and my contact information. Also some useful stuff and materials.
 
-### **Currently there are stored two projects**
-- My personal Substance Tracker App project
+### **Currently there are no stored projects**
 - My final practice project of CRUD Apps - Habit tracker again, without any helpers.
-
-### Also! My first personal and own projects Im currently working on // Created.
 
 ### Bio
 
@@ -14,7 +11,7 @@
 - I'm learning my first programming language => **C#**
 - Work as a Team-Leader at *Albert* s.r.o.
 
-### In my spare time I
+### In my spare time
 
   - Compose **hip-hop beats** in *FL Studio* (6 years).
   - Take pictures of things from our world with my vintage Canon EOS 600d (8 years).
@@ -35,6 +32,4 @@ My **E-Mail** (Write me an email with anything formal and serious - related)
 📝 -> <filipek.husak@gmail.com>
 
 
-*Looking forward for any type of entertainment, work, interesting things about news, particularly anything. Dont hesitate to hit me up with a message!*
-
-DreamFXX
+*DreamFXX*
