@@ -1,6 +1,6 @@
 # DreamFXX personal repository.
 
-## In this repository are all my plans, Todo tasks and my contact information. Also some useful stuff and materials.
+### In this repository are all my plans, Todo tasks and my contact information. Also some useful stuff and materials.
 
 ### **Currently there are no stored projects**
 - My final practice project of CRUD Apps - Habit tracker again, without any helpers.
@@ -17,7 +17,7 @@
   - Take pictures of things from our world with my vintage Canon EOS 600d (8 years).
 
 
-## For any work suggestions or collaborations => Contact me on my Instagram, GitHub, E-Mail or Linked-In
+## For any work suggestions or collaborations => Contact me on my Instagram, GitHub, E-Mail or Linked-In (Bio)
 
 My personal **Instagram**
 
