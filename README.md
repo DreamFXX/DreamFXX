@@ -1,8 +1,9 @@
-# DreamFXX personal repository.
+# DreamFXX personal repository
 
-### In this repository are all my plans, Todo tasks and my contact information. Also some useful stuff and materials.
+## My plans, Todo tasks and my contact information
 
 ### **Currently there are no stored projects**
+
 - My final practice project of CRUD Apps - Habit tracker again, without any helpers.
 
 ### Bio
@@ -13,9 +14,8 @@
 
 ### In my spare time
 
-  - Compose **hip-hop beats** in *FL Studio* (6 years).
-  - Take pictures of things from our world with my vintage Canon EOS 600d (8 years).
-
+- Compose **hip-hop beats** in *FL Studio* (6 years).
+- Take pictures of things from our world with my vintage Canon EOS 600d (8 years).
 
 ## For any work suggestions or collaborations => Contact me on my Instagram, GitHub, E-Mail or Linked-In (Bio)
 
@@ -30,6 +30,5 @@ My **GitHub** where you can find my projects and everything related to my progra
 My **E-Mail** (Write me an email with anything formal and serious - related)
 
 📝 -> <filipek.husak@gmail.com>
-
 
 *DreamFXX*
