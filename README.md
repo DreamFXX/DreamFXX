@@ -20,14 +20,16 @@
 - I´m Composing **Trap beats** in *FL Studio 20* (making music around 6 years)
 - Making and Editing photos, using CANON eos 600d // Adobe Lightroom (8 years)
 
-## For any work suggestions or collaborations => Contact me on my GitHub, G-Mail or Linked-In (links in my Bio)
+## Work suggestions or collaborations  
+
+- Contact me on my GitHub, G-Mail or Linked-In (links in my Bio)
 
 Personal **GitHub** - There you can find my Projects and resources around my programming path and progress
 
 [GitHub Link](https://github.com/DreamFXX)
 
-**E-Mail** (Write me an email with anything formal and serious - related)
-
-<filipek.husak@gmail.com>
+**E-Mail** 
+- (Write me an email with anything formal and serious related)
+- <filipek.husak@gmail.com>
 
 *DreamFXX*
