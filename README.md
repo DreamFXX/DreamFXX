@@ -13,7 +13,7 @@
  - [ ] - Three Projects Course from Class Central resources
  - [ ] - CsharpAcademy.org roadmap (Full-Stack Developement)
 
-- Currently, there are no stored showcase projects in this repository
+## Currently, there are no stored showcase projects in this repository
 
 ## Bio
 
