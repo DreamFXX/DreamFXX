@@ -1,51 +1,48 @@
-# **DreamFXX**s Personal Repository
+# DreamFXX's Personal Repository
 
-## **Todos** - Todo tasks and contact information
+## Todos
 
-### Projects Im working on right now
+### Projects I'm Working On
 
- - [ ] - Phonebook csharpacademy.org Course project (Entity Framework Core)
- - [ ] - Flashcards csharpacademy.org Course project
- - [ ] - Personal Substance logger web application
+- [ ] Phonebook csharpacademy.org Course project (Entity Framework Core)
+- [ ] Flashcards csharpacademy.org Course project
+- [ ] Personal Substance Logger web application
 
-### Courses in progress
+### Courses in Progress
 
- - [ ] - Three Projects Course from Class Central resources
- - [ ] - CsharpAcademy.org roadmap (Full-Stack Developement)
+- [ ] Three Projects Course from Class Central resources
+- [ ] CsharpAcademy.org roadmap (Full-Stack Development)
 
-## Currently, there are no stored showcase projects in this repository
+## Showcase Projects
+
+Currently, there are no stored showcase projects in this repository.
 
 ## Bio
 
-- I live in the **Czech Republic, Prague** :czech_republic:
-- Currently I´m on the road of learning Full-Stack Developement in **C#** 💻
-- Working as a Team-Leader in Albert Czech Republic s.r.o.
-  - (Ahold Delhaize - Company responsible for food sale etc.)
+- I live in **Prague, Czech Republic** :czech_republic:
+- Currently learning Full-Stack Development in **C#** 💻
+- Working as a Team Leader at Albert Czech Republic s.r.o. (Ahold Delhaize - Company responsible for food sales)
 
 ## Hobbies
 
-- I´m Composing **Music Beats** in FL Studio 20 (making music around 6 years)
-- Making and Editing photos, using CANON eos 600d // Adobe Lightroom (8 years)
+- Composing **Music Beats** in FL Studio 20 (making music for around 6 years)
+- Making and editing photos using a CANON EOS 600D and Adobe Lightroom (8 years)
 
-### Work suggestions and collaborations
+## Work Suggestions and Collaborations
 
-- Contact me on my GitHub, Gmail and Linked-In
+- Contact me on GitHub, Gmail, and LinkedIn.
 
-#### This is my main personal account on **GitHub**
-
-- Main page for storing Projects and Resources created while working on my programming knowledge and progress.
-
-### My Contacts
+## Contacts
 
 **E-Mail**
 
 (Write me an email with anything formal/serious related)
-- <filipek.husak@gmail.com>
+- filipek.husak@gmail.com
 
-**Linked-In**
+**LinkedIn**
 
-- <https://www.linkedin.com/in/filip-hus%C3%A1k-8a1216336>
+- [Filip Husák](https://www.linkedin.com/in/filip-hus%C3%A1k-8a1216336)
 
 **Updates**
 
-- ReadMe.md - *Updated on 24.1.2025*
+- README.md - *Updated on 2025-01-24*
