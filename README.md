@@ -7,7 +7,7 @@
  - [ ] - Phonebook csharpacademy.org Course project (Entity Framework Core)
  - [ ] - Flashcards csharpacademy.org Course project
  - [ ] - Personal Substance logger web application
- - [ ] 
+
 **Courses in progress**
 
  - [ ] - Three Projects Course from Class Central resources
