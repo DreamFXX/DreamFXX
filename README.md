@@ -19,7 +19,7 @@ Currently, there are no stored showcase projects in this repository.
 
 ## Bio
 
-- I live in **Prague, Czech Republic** :czech_republic:
+- I live in **Prague, Czech Republic** 🇨🇿
 - Currently learning Full-Stack Development in **C#** 💻
 - Working as a Team Leader at Albert Czech Republic s.r.o. (Ahold Delhaize - Company responsible for food sales)
 
