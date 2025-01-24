@@ -2,20 +2,18 @@
 
 ## **Todos** - Todo tasks and contact information
 
-**Projects Im working Right Now**
+### Projects Im working on right now
 
  - [ ] - Phonebook csharpacademy.org Course project (Entity Framework Core)
  - [ ] - Flashcards csharpacademy.org Course project
  - [ ] - Personal Substance logger web application
 
-**Courses in progress**
+### Courses in progress
 
  - [ ] - Three Projects Course from Class Central resources
  - [ ] - CsharpAcademy.org roadmap (Full-Stack Developement)
 
-### **Currently there are no stored projects in this repository**
-
-- Coming soon
+- Currently, there are no stored showcase projects in this repository
 
 ## Bio
 
@@ -29,11 +27,11 @@
 - I´m Composing **Music Beats** in FL Studio 20 (making music around 6 years)
 - Making and Editing photos, using CANON eos 600d // Adobe Lightroom (8 years)
 
-## Work suggestions or collaborations
+### Work suggestions and collaborations
 
-- Contact me on my GitHub, Gmail or Linked-In
+- Contact me on my GitHub, Gmail and Linked-In
 
-### This is my main personal account on **GitHub**
+#### This is my main personal account on **GitHub**
 
 Main page for storing Projects and Resources created while working on my programming knowledge and progress.
 
