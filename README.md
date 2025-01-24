@@ -2,34 +2,41 @@
 
 ## **Todos** - Todo tasks and contact information
 **Projects Im working Right Now**
- - [ ] - Phonebook csharpacademy.org Course project
+ - [ ] - Phonebook csharpacademy.org Course project (Entity Framework Core)
  - [ ] - Flashcards csharpacademy.org Course project
- - [ ] - Personal Substance logger web Application.
+ - [ ] - Personal Substance logger web application
 **Courses in progress**
- - [ ] - ThreeProjectsCourse from Class Central resources
-### **Currently there are no stored projects**
+ - [ ] - Three Projects Course from Class Central resources
+ - [ ] - CsharpAcademy.org roadmap (Full-Stack Developement)
 
-- Nothing here right now..
+### **Currently there are no stored projects in this repository**
+
+- Coming soon
 
 ## Bio
-- I live in the **Czech Republic, Prague**
-- Currently I´m on the road of learning Full-Stack Developement in **C#**
-- I´m Working as a Team-Leader in Albert ČR (Ahold Delhaize Supermarket organisation)
+- I live in the **Czech Republic, Prague** :czech_republic:
+- Currently I´m on the road of learning Full-Stack Developement in **C#** 💻
+- Working as a Team-Leader in Albert Czech Republic s.r.o.
+  - (Ahold Delhaize - Company responsible for food sale etc.)
 
-## **Hobbies**
-- I´m Composing **Trap beats** in *FL Studio 20* (making music around 6 years)
+## Hobbies
+- I´m Composing **Music Beats** in FL Studio 20 (making music around 6 years)
 - Making and Editing photos, using CANON eos 600d // Adobe Lightroom (8 years)
 
-## Work suggestions or collaborations  
+## Work suggestions or collaborations
+- Contact me on my GitHub, Gmail or Linked-In
 
-- Contact me on my GitHub, G-Mail or Linked-In (links in my Bio)
+### This is my main personal account on **GitHub**
+Main page for storing Projects and Resources created while working on my programming knowledge and progress.
 
-Personal **GitHub** - There you can find my Projects and resources around my programming path and progress
+### My Contacts
 
-[GitHub Link](https://github.com/DreamFXX)
-
-**E-Mail** 
-- (Write me an email with anything formal and serious related)
+**E-Mail**
+(Write me an email with anything formal/serious related)
 - <filipek.husak@gmail.com>
 
-*DreamFXX*
+**Linked-In**
+<https://www.linkedin.com/in/filip-hus%C3%A1k-8a1216336>
+
+**Updates**
+ReadMe.md - *Updated on 24.1.2025*
