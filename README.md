@@ -33,7 +33,7 @@
 
 #### This is my main personal account on **GitHub**
 
-Main page for storing Projects and Resources created while working on my programming knowledge and progress.
+- Main page for storing Projects and Resources created while working on my programming knowledge and progress.
 
 ### My Contacts
 
@@ -44,8 +44,8 @@ Main page for storing Projects and Resources created while working on my program
 
 **Linked-In**
 
-<https://www.linkedin.com/in/filip-hus%C3%A1k-8a1216336>
+- <https://www.linkedin.com/in/filip-hus%C3%A1k-8a1216336>
 
 **Updates**
 
-ReadMe.md - *Updated on 24.1.2025*
+- ReadMe.md - *Updated on 24.1.2025*
