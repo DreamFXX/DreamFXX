@@ -28,7 +28,7 @@ Currently, there are no stored showcase projects in this repository.
 - Composing **Music Beats** in FL Studio 20 (making music for around 6 years)
 - Making and editing photos using a CANON EOS 600D and Adobe Lightroom (8 years)
 
-## Work Suggestions and Collaborations
+## Work & Collaboration Requests
 
 - Contact me on GitHub, Gmail, and LinkedIn.
 
