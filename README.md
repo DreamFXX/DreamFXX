@@ -4,7 +4,7 @@
 
 ### Projects I'm Working On
 
-- [ ] Phonebook csharpacademy.org Course project (Entity Framework Core)
+- [x] Phonebook csharpacademy.org Course project (Entity Framework Core)
 - [ ] Flashcards csharpacademy.org Course project
 - [ ] Personal Substance Logger web application
 
