@@ -2,20 +2,21 @@
 
 ## Todos
 
-### Projects I'm Working On
+### Projects that are coming to finish line
 
-- [x] Phonebook csharpacademy.org Course project (Entity Framework Core)
-- [ ] Flashcards csharpacademy.org Course project
+- [x] Phonebook csharpacademy.com C# course project (Entity Framework Core)
+- [ ] Flashcards csharpacademy.com C# course project (ADO.NET, SQL Server)
 - [ ] Personal Substance Logger web application
 
 ### Courses in Progress
 
 - [ ] Three Projects Course from Class Central resources
-- [ ] CsharpAcademy.org roadmap (Full-Stack Development)
+- [ ] CsharpAcademy.com C# Roadmap (Full-Stack Development)
 
 ## Showcase Projects
 
-Currently, there are no stored showcase projects in this repository.
+- [ ] Umm, loading...
+[App about relationships?]
 
 ## Bio
 
