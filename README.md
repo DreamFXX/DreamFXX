@@ -5,7 +5,7 @@
 ### Projects that are coming to finish line
 
 - [x] Phonebook csharpacademy.com C# course project (Entity Framework Core)
-- [ ] Flashcards csharpacademy.com C# course project (ADO.NET, SQL Server)
+- [x] Flashcards csharpacademy.com C# course project (ADO.NET, SQL Server)
 - [ ] Personal Substance Logger web application
 
 ### Courses in Progress
