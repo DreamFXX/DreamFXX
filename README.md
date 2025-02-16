@@ -13,11 +13,6 @@
 - [ ] Three Projects Course from Class Central resources
 - [ ] CsharpAcademy.com C# Roadmap (Full-Stack Development)
 
-## Showcase Projects
-
-- [ ] Umm, loading...
-[App about relationships?]
-
 ## Bio
 
 - I live in **Prague, Czech Republic** 🇨🇿
