@@ -6,7 +6,6 @@
 
 - [x] Phonebook csharpacademy.com C# course project (Entity Framework Core)
 - [x] Flashcards csharpacademy.com C# course project (ADO.NET, SQL Server)
-- [ ] Personal Substance Logger web application
 
 ### Courses in Progress
 
