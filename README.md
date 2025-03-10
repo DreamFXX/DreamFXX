@@ -2,10 +2,13 @@
 
 ## Todos
 
+- [ ] Set-up my favourite workflows (claude with mcp etc.)
+
 ### Projects that are coming to finish line
 
 - [x] Phonebook csharpacademy.com C# course project (Entity Framework Core)
 - [x] Flashcards csharpacademy.com C# course project (ADO.NET, SQL Server)
+- [ ] Shift Logger - [csharpacademy.com] C# course project
 
 ### Courses in Progress
 
