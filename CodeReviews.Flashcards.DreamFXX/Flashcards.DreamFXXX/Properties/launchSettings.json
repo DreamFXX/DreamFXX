@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Flashcards.DreamFXXX": {
+      "commandName": "Project",
+      "hotReloadEnabled": true,
+      "nativeDebugging": true,
+      "sqlDebugging": true,
+      "jsWebView2Debugging": false
+    }
+  }
+}

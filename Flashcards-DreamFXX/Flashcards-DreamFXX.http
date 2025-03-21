@@ -1,6 +1,0 @@
-@Flashcards_DreamFXX_HostAddress = http://localhost:5169
-
-GET {{Flashcards_DreamFXX_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
