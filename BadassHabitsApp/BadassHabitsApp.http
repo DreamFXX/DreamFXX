@@ -1,0 +1,11 @@
+@BadassHabitsApp_HostAddress = http://localhost:5078
+
+GET {{BadassHabitsApp_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{BadassHabitsApp_HostAddress}}/todos/1
+Accept: application/json
+
+###
