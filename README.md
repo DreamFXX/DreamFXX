@@ -2,7 +2,7 @@
 
 **DreamFXX/DreamFXX** is my personal and also ✨ _special_ ✨ repository because my bio in format of `README.md`  (this file) appears on my profile.
 
-Here are some ideas to get you started:
+### Beats and Music Production, Multimedia, Sales and currently arising C# and web developer.
 
 - 🔭 I’m currently working on ASP.NET Skills, C# Skills, AI Fundamentals
 - 🌱 I’m currently learning mainly C# and Web Developement
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Im completely self taught beast that is learning from public and free sources
 - ⚡ Rockstar lifestyle, Prague, Czech Republic
-- 
-- *updated 4.2025*
+
+*updated 4.2025*
